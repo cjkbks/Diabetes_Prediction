@@ -1,4 +1,4 @@
-# Diabetes_Prediction
+# Diabetes Prediction
 ## Problem Description
 The objective is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset and to find out the factors which largely cause the condition.
 
